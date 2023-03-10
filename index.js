@@ -16,8 +16,10 @@ function gemsToDiamond(first, second, third) {
     return result;
 
 }
-let firstGems = 20;
-let secondGems = 40;
-let thirdGems = 10;
-let total = gemsToDiamond(firstGems, secondGems, thirdGems);
-console.log(total);
+// let firstGems = 20;
+// let secondGems = 40;
+// let thirdGems = 10;
+// let total = gemsToDiamond(firstGems, secondGems, thirdGems);
+// console.log(total);
+
+//////////////////////////////////////////////////////////////
